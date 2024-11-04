@@ -7,6 +7,7 @@ public static void main(String[] args)
     String d = "Cilonek";
 
     
+    
     if(s.compareTo(d) == 0)
 
     
